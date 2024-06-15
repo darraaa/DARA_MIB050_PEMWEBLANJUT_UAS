@@ -1,2 +1,2 @@
-<h1>KREDENSIAL LOGIN PENGGUNA</h1>- Admin: email dan password ; shabrinazahra08@gmail.com dan jahra26
-- Pengelola : email dan password ; Rian26@gmail.com dan rian123
+<h1>KREDENSIAL LOGIN PENGGUNA</h1>- Admin: email dan password ; darakinasih@gmail.com dan dara03
+- Pengelola : email dan password ; irfan55@gmail.com dan irfan123
